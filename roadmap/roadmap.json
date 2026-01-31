@@ -1,0 +1,10 @@
+{
+  "topics": [
+    {"name": "Object-Oriented Programming", "status": "not started"},
+    {"name": "System Design", "status": "not started"},
+    {"name": "Angular", "status": "not started"},
+    {"name": ".NET", "status": "not started"},
+    {"name": "AI", "status": "not started"}
+  ]
+}
+
