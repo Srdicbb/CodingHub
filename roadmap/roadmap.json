@@ -1,10 +1,19 @@
 {
   "topics": [
-    {"name": "Object-Oriented Programming", "status": "learning", "last_updated": "2026-01-31"},
-    {"name": "System Design", "status": "not started"},
-    {"name": "Angular", "status": "not started"},
-    {"name": ".NET", "status": "not started"},
-    {"name": "AI", "status": "not started"}
+    {"name": "Object-Oriented Programming", "status": "learning", "phase": 1.1, "last_updated": "2026-02-18"},
+    {"name": "Design Patterns", "status": "not started", "phase": 1.2, "last_updated": "2026-02-18"},
+    {"name": "Data Structures & Algorithms", "status": "not started", "phase": 1.3, "last_updated": "2026-02-18"},
+    {"name": "Clean Code", "status": "not started", "phase": 1.4, "last_updated": "2026-02-18"},
+    {"name": "Architecture", "status": "partial", "phase": 2.1, "last_updated": "2026-02-18"},
+    {"name": "System Design", "status": "partial", "phase": 2.2, "last_updated": "2026-02-18"},
+    {"name": "Distributed Systems", "status": "not started", "phase": 2.3, "last_updated": "2026-02-18"},
+    {"name": "DevOps", "status": "partial", "phase": 3, "last_updated": "2026-02-18"},
+    {"name": "Cloud", "status": "not started", "phase": 3.4, "last_updated": "2026-02-18"},
+    {"name": "Testing", "status": "partial", "phase": 4, "last_updated": "2026-02-18"},
+    {"name": "Security", "status": "not started", "phase": 5, "last_updated": "2026-02-18"},
+    {"name": "AI & LLM", "status": "not started", "phase": 6, "last_updated": "2026-02-18"},
+    {"name": "Soft Skills", "status": "partial", "phase": 7, "last_updated": "2026-02-18"},
+    {"name": "How Computers Work", "status": "partial", "phase": 8.1, "last_updated": "2026-02-18"},
+    {"name": "Networking", "status": "partial", "phase": 8.2, "last_updated": "2026-02-18"}
   ]
 }
-
