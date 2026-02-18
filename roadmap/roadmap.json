@@ -1,6 +1,6 @@
 {
   "topics": [
-    {"name": "Object-Oriented Programming", "status": "not started"},
+    {"name": "Object-Oriented Programming", "status": "learning", "last_updated": "2026-01-31"},
     {"name": "System Design", "status": "not started"},
     {"name": "Angular", "status": "not started"},
     {"name": ".NET", "status": "not started"},
